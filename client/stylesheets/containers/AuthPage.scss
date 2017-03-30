@@ -1,8 +1,12 @@
 // Auth page
 
 .auth {
-    height: 100%;
+    height: 100%;        
     .login {
-
+	    position: relative;
+	    width: 70%;
+	    top: 50%;
+	    margin: 0 auto;
+        transform: translateY(50%);
     }
 }

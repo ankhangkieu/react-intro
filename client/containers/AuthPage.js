@@ -44,7 +44,6 @@ class AuthPage extends React.Component {
                 <div className="login">
                     <LoginForm loginFunction={loginActions.login} />
                 </div>
-                Hello World!
             </div>
         );
     }
